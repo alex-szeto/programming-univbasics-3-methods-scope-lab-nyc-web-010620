@@ -11,5 +11,5 @@ def link
 end
 
 def any_phrase(arguement)
-  arguement
+  puts arguement
 end
