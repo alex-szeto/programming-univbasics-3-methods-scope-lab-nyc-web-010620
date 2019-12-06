@@ -5,5 +5,5 @@ end
 
 def toadstool
   puts status
-  console.log(status)
+  puts 'Thank you Mario! But Our Princess Is In Another Castle!'
 end
