@@ -5,4 +5,5 @@ end
 
 def toadstool
   puts status
+  console.log(status)
 end
